@@ -1,14 +1,4 @@
-/**
-* Template Name: Bocor
-* Template URL: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -606,7 +596,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/about.jpg") center center no-repeat;
+  background: url("../img/imagem.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
